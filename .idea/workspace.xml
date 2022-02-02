@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="updated ocntact page to linktree">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +87,8 @@
       <workItem from="1640144568380" duration="100000" />
       <workItem from="1640144907757" duration="2022000" />
       <workItem from="1640147279953" duration="671000" />
+      <workItem from="1643814390071" duration="401000" />
+      <workItem from="1643814892794" duration="722000" />
     </task>
     <task id="LOCAL-00002" summary="updated ocntact page to linktree">
       <created>1630813420722</created>

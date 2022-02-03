@@ -9,9 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="updated ocntact page to linktree">
+    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="updates all images but background.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
       <recent name="C:\Users\NickK\Documents\GitHub\OUClimbingTestPage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NickK\Documents\GitHub\OU-Climbing-Page\images" />
       <recent name="C:\Users\NickK\Documents\GitHub\OUClimbingTestPage\images" />
       <recent name="C:\Users\NickK\Documents\GitHub\OUClimbingTestPage\bg" />
     </key>
@@ -88,7 +90,7 @@
       <workItem from="1640144907757" duration="2022000" />
       <workItem from="1640147279953" duration="671000" />
       <workItem from="1643814390071" duration="401000" />
-      <workItem from="1643814892794" duration="722000" />
+      <workItem from="1643814892794" duration="2046000" />
     </task>
     <task id="LOCAL-00002" summary="updated ocntact page to linktree">
       <created>1630813420722</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630813438340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates all images but background.">
+      <created>1643816014287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643816014287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed buttons not laoding page" />
     <MESSAGE value="updated ocntact page to linktree" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated ocntact page to linktree" />
+    <MESSAGE value="updates all images but background." />
+    <option name="LAST_COMMIT_MESSAGE" value="updates all images but background." />
   </component>
 </project>

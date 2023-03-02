@@ -1,4 +1,3 @@
-@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
@@ -21,8 +20,6 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -36,15 +33,6 @@ body {
 ol, ul {
 	list-style: none;
 }
-
-blockquote, q {
-	quotes: none;
-}
-
-	blockquote:before, blockquote:after, q:before, q:after {
-		content: '';
-		content: none;
-	}
 
 table {
 	border-collapse: collapse;
@@ -72,11 +60,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic & Deprecated*/
-
-	@-ms-viewport {
-		width: device-width;
-	}
 
 	@media screen and (max-width: 480px) {
 
@@ -505,7 +488,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: serif;
 				font-weight: 900;
 			}
 
@@ -614,7 +597,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: serif;
 			font-weight: 400;
 		}
 
@@ -631,7 +614,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family:sans-serif;
 		}
 
 /* Image */

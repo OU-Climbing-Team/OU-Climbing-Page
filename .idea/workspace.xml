@@ -12,10 +12,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="">
+    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="codeClean">
+      <change afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Documents/GitHub/OU-Climbing-Webpage",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,7 +98,8 @@
       <workItem from="1677661767665" duration="389000" />
       <workItem from="1677731102646" duration="5655000" />
       <workItem from="1677751387284" duration="3293000" />
-      <workItem from="1677807186071" duration="7161000" />
+      <workItem from="1677807186071" duration="10040000" />
+      <workItem from="1677903692462" duration="819000" />
     </task>
     <task id="LOCAL-00002" summary="updated ocntact page to linktree">
       <created>1630813420722</created>
@@ -160,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677736619933</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="codeClean">
+      <created>1677832806989</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677832806989</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +195,7 @@
     <MESSAGE value="took out some trash (unused template code)" />
     <MESSAGE value="took out more trash" />
     <MESSAGE value="change subpage transparency to be much less" />
-    <option name="LAST_COMMIT_MESSAGE" value="change subpage transparency to be much less" />
+    <MESSAGE value="codeClean" />
+    <option name="LAST_COMMIT_MESSAGE" value="codeClean" />
   </component>
 </project>

@@ -12,12 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="added keyboard events and buttons">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="reduce black load time, brighten up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +95,7 @@
       <workItem from="1677807186071" duration="10040000" />
       <workItem from="1677903692462" duration="819000" />
       <workItem from="1677985618193" duration="4558000" />
-      <workItem from="1677997822730" duration="9499000" />
+      <workItem from="1677997822730" duration="9807000" />
     </task>
     <task id="LOCAL-00002" summary="updated ocntact page to linktree">
       <created>1630813420722</created>
@@ -179,7 +174,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678012438298</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="reduce black load time, brighten up">
+      <created>1678014023311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678014023311</updated>
+    </task>
+    <task id="LOCAL-00014" summary="reduce black load time, brighten up">
+      <created>1678014038182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678014038182</updated>
+    </task>
+    <task id="LOCAL-00015" summary="reduce black load time, brighten up">
+      <created>1678014172983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678014172983</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +221,7 @@
     <MESSAGE value="change subpage transparency to be much less" />
     <MESSAGE value="codeClean" />
     <MESSAGE value="added keyboard events and buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="added keyboard events and buttons" />
+    <MESSAGE value="reduce black load time, brighten up" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduce black load time, brighten up" />
   </component>
 </project>

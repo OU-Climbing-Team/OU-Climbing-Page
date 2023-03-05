@@ -7,45 +7,45 @@
 /*
 Button A,S,D used to nav the page
  */
-const articles = ['#About', '#FacilitiesAndFAQ', '#OurPartners'];
-let currentArticleIndex = 2;
-
-
-function getPrevArticle() {
-	currentArticleIndex = (currentArticleIndex -1) % articles.length;
-	if(currentArticleIndex < 0)
-		currentArticleIndex = articles.length-1;
-	return articles[currentArticleIndex];
-}
-
-function getNextArticle() {
-	currentArticleIndex = (currentArticleIndex + 1) % articles.length;
-	return articles[currentArticleIndex];
-}
-
-document.addEventListener('keyup', function(event) {
-	switch (event.key){
-		case 'a':{
-			window.location.href = getPrevArticle();
-			break;
-		}
-		case 'd':{
-			window.location.href = getNextArticle();
-			break;
-		}
-		case 'w':{
-			window.location.href = "index.html";
-			break;
-		}
-
-		default:
-	}
-});
-
-
-
 
 (function($) {
+
+	const articles = ['#About', '#FacilitiesAndFAQ', '#OurPartners'];
+	let currentArticleIndex = 2;
+
+
+	function getPrevArticle() {
+		currentArticleIndex = (currentArticleIndex -1) % articles.length;
+		if(currentArticleIndex < 0)
+			currentArticleIndex = articles.length-1;
+		return articles[currentArticleIndex];
+	}
+
+	function getNextArticle() {
+		currentArticleIndex = (currentArticleIndex + 1) % articles.length;
+		return articles[currentArticleIndex];
+	}
+
+	document.addEventListener('keyup', function(event) {
+		switch (event.key){
+			case 'a':{
+				window.location.href = getPrevArticle();
+				break;
+			}
+			case 'd':{
+				window.location.href = getNextArticle();
+				break;
+			}
+			case 'w':{
+				if ($body.hasClass('is-article-visible'))
+					$main._hide(true);
+				break;
+			}
+
+			default:
+		}
+	});
+
 
 	let $window = $(window),
 		$body = $('body'),

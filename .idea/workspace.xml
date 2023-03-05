@@ -12,8 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="codeClean">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="347b675f-6691-4aff-8479-db4df353098e" name="Default Changelist" comment="added keyboard events and buttons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
@@ -101,7 +100,7 @@
       <workItem from="1677807186071" duration="10040000" />
       <workItem from="1677903692462" duration="819000" />
       <workItem from="1677985618193" duration="4558000" />
-      <workItem from="1677997822730" duration="7930000" />
+      <workItem from="1677997822730" duration="9499000" />
     </task>
     <task id="LOCAL-00002" summary="updated ocntact page to linktree">
       <created>1630813420722</created>
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677832806989</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added keyboard events and buttons">
+      <created>1678012438298</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678012438298</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +204,7 @@
     <MESSAGE value="took out more trash" />
     <MESSAGE value="change subpage transparency to be much less" />
     <MESSAGE value="codeClean" />
-    <option name="LAST_COMMIT_MESSAGE" value="codeClean" />
+    <MESSAGE value="added keyboard events and buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="added keyboard events and buttons" />
   </component>
 </project>

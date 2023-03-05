@@ -4,6 +4,47 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*
+Button A,S,D used to nav the page
+ */
+const articles = ['#About', '#FacilitiesAndFAQ', '#OurPartners'];
+let currentArticleIndex = 2;
+
+
+function getPrevArticle() {
+	currentArticleIndex = (currentArticleIndex -1) % articles.length;
+	if(currentArticleIndex < 0)
+		currentArticleIndex = articles.length-1;
+	return articles[currentArticleIndex];
+}
+
+function getNextArticle() {
+	currentArticleIndex = (currentArticleIndex + 1) % articles.length;
+	return articles[currentArticleIndex];
+}
+
+document.addEventListener('keyup', function(event) {
+	switch (event.key){
+		case 'a':{
+			window.location.href = getPrevArticle();
+			break;
+		}
+		case 'd':{
+			window.location.href = getNextArticle();
+			break;
+		}
+		case 'w':{
+			window.location.href = "index.html";
+			break;
+		}
+
+		default:
+	}
+});
+
+
+
+
 (function($) {
 
 	let $window = $(window),
@@ -64,6 +105,7 @@
 				$nav_li.eq( ($nav_li.length / 2) ).addClass('is-middle');
 
 			}
+
 
 	// Main.
 		var	delay = 300,

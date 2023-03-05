@@ -41,7 +41,6 @@ Button A,S,D used to nav the page
 					$main._hide(true);
 				break;
 			}
-
 			default:
 		}
 	});
